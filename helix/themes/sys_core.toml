@@ -1,0 +1,23 @@
+"ui.background" = { bg = "#0b0616" }
+"ui.text" = { fg = "#d6d6ff" }
+"ui.cursor" = { bg = "#ff2bd6", fg = "#0b0616" }
+"ui.cursor.match" = { fg = "#00ffa6", modifiers = ["underlined"] }
+"ui.selection" = { bg = "#3a2fff" }
+"ui.cursorline.primary" = { bg = "#0d0b1a" }
+"ui.statusline" = { fg = "#d6d6ff", bg = "#0d0b1a" }
+"ui.statusline.normal" = { fg = "#0b0616", bg = "#00ffa6", modifiers = ["bold"] }
+"ui.statusline.insert" = { fg = "#0b0616", bg = "#ff2bd6", modifiers = ["bold"] }
+"ui.statusline.select" = { fg = "#0b0616", bg = "#6fffe9", modifiers = ["bold"] }
+"ui.window" = { fg = "#3b3355" }
+"ui.help" = { bg = "#0d0b1a", fg = "#d6d6ff" }
+"ui.text.focus" = { fg = "#00ffa6", modifiers = ["bold"] }
+
+"comment" = { fg = "#3b3355", modifiers = ["italic"] }
+"keyword" = "#ff2bd6"
+"string" = "#00ffa6"
+"function" = "#6fffe9"
+"variable" = "#d6d6ff"
+"constant" = "#ffe066"
+"type" = "#1d9ea0"
+"operator" = "#ff4d6d"
+"punctuation" = "#3b3355"
