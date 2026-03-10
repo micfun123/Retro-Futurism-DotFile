@@ -53,7 +53,7 @@ git clone https://github.com/micfun123/Retro-Futurism-Kitty ~/.config/kitty
 Reload kitty config:
 
 ```
-Ctrl + A → R
+Ctrl + A → Shift + R
 ```
 
 Or restart Kitty.
@@ -73,7 +73,7 @@ Press `Ctrl+A`, release, then press the command key.
 Example:
 
 ```
-Ctrl + A → C
+Ctrl + A → Shift + C
 ```
 
 Creates a new tab.
@@ -84,48 +84,50 @@ Creates a new tab.
 
 ## Config
 
-| Key        | Action        |
-| ---------- | ------------- |
-| Ctrl+A → R | Reload config |
-| Ctrl+A → E | Edit config   |
-| Ctrl+A → D | Debug config  |
+| Key              | Action        |
+| ---------------- | ------------- |
+| Ctrl+A → Shift+R | Reload config |
+| Ctrl+A → Shift+E | Edit config   |
+| Ctrl+A → Shift+D | Debug config  |
 
 ---
 
 ## Tabs
 
-| Key          | Action         |
-| ------------ | -------------- |
-| Ctrl+Shift+← | Previous tab   |
-| Ctrl+Shift+→ | Next tab       |
-| Ctrl+Shift+, | Move tab left  |
-| Ctrl+Shift+. | Move tab right |
-| Ctrl+A → ,   | Rename tab     |
-| Ctrl+A → C   | New tab        |
-| Ctrl+A → X   | Close tab      |
+| Key              | Action         |
+| ---------------- | -------------- |
+| Ctrl+Shift+←     | Previous tab   |
+| Ctrl+Shift+→     | Next tab       |
+| Ctrl+Shift+,     | Move tab left  |
+| Ctrl+Shift+.     | Move tab right |
+| Ctrl+A → Shift+, | Rename tab     |
+| Ctrl+A → Shift+C | New tab        |
+| Ctrl+A → Shift+X | Close tab      |
 
 ---
 
 ## Window Splits
 
-| Key              | Action                      |
-| ---------------- | --------------------------- |
-| Ctrl+A → -       | Horizontal split (same cwd) |
-| Ctrl+A → Shift+- | Horizontal split            |
-| Ctrl+A → \       | Vertical split (same cwd)   |
-| Ctrl+A → Shift+\ | Vertical split              |
+| Key        | Action                      |
+| ---------- | --------------------------- |
+| Ctrl+A → - | Horizontal split (same cwd) |
+| Ctrl+A → \ | Vertical split (same cwd)   |
+| Ctrl+A → x | Close current split         |
 
 ---
 
 ## Window Navigation
 
-| Key          | Action               |
-| ------------ | -------------------- |
-| Ctrl+← → ↑ ↓ | Move between windows |
-| Ctrl+A → H   | Left                 |
-| Ctrl+A → J   | Down                 |
-| Ctrl+A → K   | Up                   |
-| Ctrl+A → L   | Right                |
+| Key              | Action               |
+| ---------------- | -------------------- |
+| Ctrl+H           | Move between windows |
+| Ctrl+J           | Move between windows |
+| Ctrl+K           | Move between windows |
+| Ctrl+L           | Move between windows |
+| Ctrl+A → Shift+H | Left                 |
+| Ctrl+A → Shift+J | Down                 |
+| Ctrl+A → Shift+K | Up                   |
+| Ctrl+A → Shift+L | Right                |
 
 ---
 
@@ -151,10 +153,9 @@ Creates a new tab.
 
 ## Window Control
 
-| Key        | Action       |
-| ---------- | ------------ |
-| Ctrl+A → Z | Zoom window  |
-| Ctrl+A → X | Close window |
+| Key              | Action      |
+| ---------------- | ----------- |
+| Ctrl+A → Shift+Z | Zoom window |
 
 ---
 
