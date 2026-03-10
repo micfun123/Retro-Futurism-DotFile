@@ -47,7 +47,7 @@ kitty/
 Clone the repository:
 
 ```
-git clone https://github.com/micfun123/Retro-Futurism-Kitty ~/.config/kitty
+git clone https://github.com/micfun123/Retro-Futurism-DotFile ~/.config/kitty
 ```
 
 Reload kitty config:
